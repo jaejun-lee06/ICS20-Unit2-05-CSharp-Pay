@@ -12,7 +12,6 @@ class Program
         // This function calculates the area and perimeter of a triangle
         float hours;
         float hourlyrate;
-      
         Console.WriteLine("Enter number of hours worked:");
         hours = Convert.ToSingle(Console.ReadLine());
         Console.WriteLine("Enter hourly rate:");
